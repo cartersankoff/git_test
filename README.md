@@ -1,2 +1,2 @@
 # git_test
-Hello, world I am testing git out!
+This is a respository I am creating to familiarize myself with Git and Github
